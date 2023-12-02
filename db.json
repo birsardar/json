@@ -1,0 +1,135 @@
+ [
+    {
+      "id": 1,
+      "courseName": "Introduction to Programming",
+      "instructorName": "John Smith",
+      "description": "Learn the basics of programming with this introductory course.",
+      "duration": "8 weeks",
+      "prerequisites": ["None"],
+      "syllabus": ["Introduction to variables", "Control structures", "Functions"],
+      "schedule": "Mon & Wed, 6:00 PM - 8:00 PM",
+      "location": "Online"
+    },
+    {
+      "id": 2,
+      "courseName": "Web Development Fundamentals",
+      "instructorName": "Emily Johnson",
+      "description": "Explore the foundations of web development, including HTML, CSS, and JavaScript.",
+      "duration": "10 weeks",
+      "prerequisites": ["Introduction to Programming"],
+      "syllabus": ["HTML and CSS basics", "JavaScript fundamentals", "Responsive design"],
+      "schedule": "Tue & Thu, 7:00 PM - 9:00 PM",
+      "location": "In-Person: City Center Campus"
+    },
+    {
+      "id": 3,
+      "courseName": "Data Science Essentials",
+      "instructorName": "Michael Davis",
+      "description": "An introductory course to data science and analysis.",
+      "duration": "12 weeks",
+      "prerequisites": ["Introduction to Programming"],
+      "syllabus": ["Data exploration", "Statistical analysis", "Machine learning basics"],
+      "schedule": "Wed & Fri, 5:30 PM - 7:30 PM",
+      "location": "Online"
+    },
+    {
+      "id": 4,
+      "courseName": "Mobile App Development",
+      "instructorName": "Sarah Martinez",
+      "description": "Build mobile applications for iOS and Android platforms.",
+      "duration": "14 weeks",
+      "prerequisites": ["Web Development Fundamentals"],
+      "syllabus": ["React Native basics", "API integration", "Deployment"],
+      "schedule": "Mon & Wed, 6:30 PM - 8:30 PM",
+      "location": "In-Person: Tech Hub Campus"
+    },
+    {
+      "id": 5,
+      "courseName": "Cybersecurity Fundamentals",
+      "instructorName": "Robert Brown",
+      "description": "Learn the basics of cybersecurity and best practices.",
+      "duration": "10 weeks",
+      "prerequisites": ["Introduction to Programming"],
+      "syllabus": ["Network security", "Encryption", "Incident response"],
+      "schedule": "Tue & Thu, 6:00 PM - 8:00 PM",
+      "location": "Online"
+    },
+    {
+      "id": 6,
+      "courseName": "AI and Machine Learning",
+      "instructorName": "Jessica Wong",
+      "description": "Explore artificial intelligence and machine learning concepts.",
+      "duration": "12 weeks",
+      "prerequisites": ["Data Science Essentials"],
+      "syllabus": ["Neural networks", "Deep learning", "Natural language processing"],
+      "schedule": "Thu & Sat, 7:30 PM - 9:30 PM",
+      "location": "In-Person: Innovation Center"
+    },
+    {
+      "id": 7,
+      "courseName": "Database Management",
+      "instructorName": "David Johnson",
+      "description": "Learn to design and manage databases for efficient data storage.",
+      "duration": "8 weeks",
+      "prerequisites": ["Introduction to Programming"],
+      "syllabus": ["Relational databases", "SQL", "Database optimization"],
+      "schedule": "Mon & Wed, 6:00 PM - 8:00 PM",
+      "location": "Online"
+    },
+    {
+      "id": 8,
+      "courseName": "Full-Stack Web Development",
+      "instructorName": "Amanda White",
+      "description": "Become proficient in both front-end and back-end web development.",
+      "duration": "16 weeks",
+      "prerequisites": ["Web Development Fundamentals"],
+      "syllabus": ["React.js", "Node.js", "RESTful APIs"],
+      "schedule": "Tue & Thu, 6:30 PM - 8:30 PM",
+      "location": "In-Person: City Center Campus"
+    },
+    {
+      "id": 9,
+      "courseName": "Digital Marketing Strategies",
+      "instructorName": "Alexis Turner",
+      "description": "Explore effective digital marketing techniques and strategies.",
+      "duration": "10 weeks",
+      "prerequisites": ["None"],
+      "syllabus": ["Social media marketing", "SEO", "Content marketing"],
+      "schedule": "Wed & Fri, 7:00 PM - 9:00 PM",
+      "location": "Online"
+    },
+    {
+      "id": 10,
+      "courseName": "Blockchain Basics",
+      "instructorName": "Daniel Brown",
+      "description": "An introduction to blockchain technology and its applications.",
+      "duration": "12 weeks",
+      "prerequisites": ["Introduction to Programming"],
+      "syllabus": ["Blockchain fundamentals", "Smart contracts", "Decentralized applications"],
+      "schedule": "Mon & Wed, 6:30 PM - 8:30 PM",
+      "location": "In-Person: Tech Hub Campus"
+    },
+    {
+      "id": 11,
+      "courseName": "UX/UI Design Principles",
+      "instructorName": "Sophia Garcia",
+      "description": "Learn the principles of user experience and user interface design.",
+      "duration": "8 weeks",
+      "prerequisites": ["Web Development Fundamentals"],
+      "syllabus": ["Wireframing", "Prototyping", "User testing"],
+      "schedule": "Tue & Thu, 6:00 PM - 8:00 PM",
+      "location": "Online"
+    },
+    {
+      "id": 12,
+      "courseName": "Project Management Essentials",
+      "instructorName": "Christopher Adams",
+      "description": "Develop essential project management skills for successful project delivery.",
+      "duration": "10 weeks",
+      "prerequisites": ["None"],
+      "syllabus": ["Project planning", "Team collaboration", "Risk management"],
+      "schedule": "Wed & Fri, 6:30 PM - 8:30 PM",
+      "location": "In-Person: Innovation Center"
+    }
+  ]
+
